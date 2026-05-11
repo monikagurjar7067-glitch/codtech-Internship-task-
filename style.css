@@ -1,24 +1,26 @@
 body {
   font-family: Arial;
-  background: #f9f9f9;
   margin: 0;
+  padding: 0;
 }
 header {
-  background: #0077cc;
+  background: #333;
   color: white;
-  text-align: center;
-  padding: 20px;
-}
-.courses {
-  display: flex;
-  gap: 20px;
-  padding: 20px;
-  flex-wrap: wrap;
-}
-.course-card {
-  background: white;
   padding: 15px;
-  border-radius: 10px;
-  width: 300px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+section {
+  padding: 30px;
+}
+.card {
+  background: #f4f4f4;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
 }

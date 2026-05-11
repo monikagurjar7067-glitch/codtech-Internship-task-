@@ -1,30 +1,23 @@
-# Real-Time Chat Application
+# Personal Portfolio Webpage
 
 ## Description
-A real-time chat application using Node.js, Express, and Socket.IO.
+A responsive developer portfolio website created using HTML and CSS.
 
 ## Technologies Used
-- Node.js
-- Express.js
-- Socket.IO
-- HTML/CSS
+- HTML5
+- CSS3
 
 ## Features
-- Real-time messaging
-- Responsive UI
-- Message broadcasting
+- Responsive design
+- Navigation bar
+- About, Projects, and Contact sections
 
-## Installation
-```bash
-npm install
-npm start
-```
-
-Open: `http://localhost:3000`
+## How to Run
+Open `index.html` in any browser.
 
 ## GitHub Upload
 ```bash
 git init
 git add .
-git commit -m "Real-Time Chat App"
+git commit -m "Portfolio Website"
 ```
