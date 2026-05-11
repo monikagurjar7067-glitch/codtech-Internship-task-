@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  background: #f9f9f9;
+  margin: 0;
+}
+header {
+  background: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.courses {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.course-card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
