@@ -1,24 +1,30 @@
-# E-Learning Platform UI
+# Real-Time Chat Application
 
 ## Description
-Front-end design for an E-Learning platform with course listings, progress tracking, and embedded videos.
+A real-time chat application using Node.js, Express, and Socket.IO.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- Node.js
+- Express.js
+- Socket.IO
+- HTML/CSS
 
 ## Features
-- Course listing cards
-- Progress tracking bars
-- Video embedding
-- Responsive layout
+- Real-time messaging
+- Responsive UI
+- Message broadcasting
 
-## How to Run
-Open `index.html` in your browser.
+## Installation
+```bash
+npm install
+npm start
+```
+
+Open: `http://localhost:3000`
 
 ## GitHub Upload
 ```bash
 git init
 git add .
-git commit -m "E-Learning Platform UI"
+git commit -m "Real-Time Chat App"
 ```
